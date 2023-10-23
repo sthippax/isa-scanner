@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xRZXCD5whpgqbJusDHeCDdtI9f70cc/lQOApzkwD0F0=",
+  "Source": "ISAScannerAPI",
+  "BasePath": "_content/ISAScannerAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

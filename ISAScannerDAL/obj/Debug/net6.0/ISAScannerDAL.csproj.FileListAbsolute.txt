@@ -1,0 +1,12 @@
+C:\Users\cthirusx\source\repos\vai\ISAScannerAPI\ISAScannerDAL\bin\Debug\net6.0\ISAScannerDAL.deps.json
+C:\Users\cthirusx\source\repos\vai\ISAScannerAPI\ISAScannerDAL\bin\Debug\net6.0\ISAScannerDAL.dll
+C:\Users\cthirusx\source\repos\vai\ISAScannerAPI\ISAScannerDAL\bin\Debug\net6.0\ISAScannerDAL.pdb
+C:\Users\cthirusx\source\repos\vai\ISAScannerAPI\ISAScannerDAL\obj\Debug\net6.0\ISAScannerDAL.csproj.AssemblyReference.cache
+C:\Users\cthirusx\source\repos\vai\ISAScannerAPI\ISAScannerDAL\obj\Debug\net6.0\ISAScannerDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cthirusx\source\repos\vai\ISAScannerAPI\ISAScannerDAL\obj\Debug\net6.0\ISAScannerDAL.AssemblyInfoInputs.cache
+C:\Users\cthirusx\source\repos\vai\ISAScannerAPI\ISAScannerDAL\obj\Debug\net6.0\ISAScannerDAL.AssemblyInfo.cs
+C:\Users\cthirusx\source\repos\vai\ISAScannerAPI\ISAScannerDAL\obj\Debug\net6.0\ISAScannerDAL.csproj.CoreCompileInputs.cache
+C:\Users\cthirusx\source\repos\vai\ISAScannerAPI\ISAScannerDAL\obj\Debug\net6.0\ISAScannerDAL.dll
+C:\Users\cthirusx\source\repos\vai\ISAScannerAPI\ISAScannerDAL\obj\Debug\net6.0\refint\ISAScannerDAL.dll
+C:\Users\cthirusx\source\repos\vai\ISAScannerAPI\ISAScannerDAL\obj\Debug\net6.0\ISAScannerDAL.pdb
+C:\Users\cthirusx\source\repos\vai\ISAScannerAPI\ISAScannerDAL\obj\Debug\net6.0\ref\ISAScannerDAL.dll

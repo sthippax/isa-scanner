@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\My Projects\ISAScanner\Deployment</_PublishTargetUrl>
+    <History>True|2023-07-18T11:17:11.0509592Z;True|2023-07-18T16:40:23.3920699+05:30;True|2023-07-18T15:02:57.9244718+05:30;True|2023-07-18T14:50:27.1809382+05:30;True|2023-07-17T16:56:55.1642366+05:30;True|2023-07-17T16:26:39.8147283+05:30;True|2023-07-17T15:14:05.8908407+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
